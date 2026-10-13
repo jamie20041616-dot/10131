@@ -1,0 +1,12 @@
+question,optionA,optionB,optionC,optionD,answer
+在 p5.js 中，哪一個函式會在程式開始時「只執行一次」？,draw(),setup(),preload(),mousePressed(),B
+在 p5.js 中，用來設定畫布背景顏色的函式是什麼？,fill(),stroke(),background(),color(),C
+p5.js 畫布的座標系統中，原點 (0，0) 位於畫布的哪個位置？,正中央,左下角,左上角,右上角,C
+若要在 p5.js 中繪製一個圓形，應該使用下列哪一個函式？,rect(),line(),triangle(),circle(),D
+在 RGB 色彩模式中，(255，0，0) 代表什麼顏色？,紅色,綠色,藍色,白色,A
+在 p5.js 中，哪一個函式預設會每秒重複執行約 60 次？,setup(),draw(),loop(),redraw(),B
+若要在 p5.js 中預先載入外部檔案（如 CSV 或圖片），應寫在哪個函式內？,preload(),setup(),draw(),loadTable(),A
+在 p5.js 中，用來設定圖形內部填滿顏色的函式是什麼？,stroke(),background(),fill(),noFill(),C
+在 p5.js 中，哪一個系統變數代表目前滑鼠的 X 座標？,width,windowWidth,pmouseX,mouseX,D
+當瀏覽器視窗大小改變時，p5.js 會自動觸發哪一個事件函式？,windowResized(),resizeCanvas(),mouseMoved(),keyPressed(),A
+
